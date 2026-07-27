@@ -10,7 +10,7 @@ const Header = ({ cantidad }) => {
             <div className="header-logo">
                 {/* Al hacer clic en el logo, regresamos al Home */}
                 <Link to="/" className="text-xl font-lora font-bold text-brand-primary cursor-pointer">
-                    D'Calucho Productos Artesanales
+                    D'Calucho Tienda Oficial Artesanal
                 </Link>
             </div>
 
